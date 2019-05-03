@@ -1,0 +1,6 @@
+const ADD = 'notes/ADD';
+const DELETE = 'notes/DELETE';
+const TOGGLE_COMPLETE = 'notes/TOGGLE_COMPLETE';
+const CHANGE_FILTER = 'notes/CHANGE_FILTER';
+
+export { ADD, DELETE, TOGGLE_COMPLETE, CHANGE_FILTER }; 
