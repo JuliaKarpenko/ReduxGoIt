@@ -1,1 +1,2 @@
-# ReduxGoIt - Lessons from DoIT
+# ReduxGoIt - 
+Lessons from DoIT
